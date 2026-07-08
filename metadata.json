@@ -1,0 +1,6 @@
+{
+  "name": "PyaePhyoHanVpn",
+  "description": "A high-performance secure VPN client inspired by Hiddify with custom skin themes and real-time proxy configurations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
